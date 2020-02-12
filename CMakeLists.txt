@@ -3,4 +3,4 @@ project(GitDemo)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(GitDemo main.cpp)
+add_executable(GitDemo main.cpp fabclass.cpp fabclass.h)
